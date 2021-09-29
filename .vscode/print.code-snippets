@@ -1,0 +1,7 @@
+{
+	"println": {
+		"scope": "java",
+		"prefix": "print",
+		"body": "System.out.println(\"$0\");"
+	}
+}
