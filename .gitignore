@@ -3,3 +3,6 @@
 /.metadata/
 *.code-workspace
 *.zip
+
+*.classpath
+*.project
